@@ -1,0 +1,15 @@
+{
+  "name": "eslint-examples",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "prettier": "prettier"
+  },
+  "devDependencies": {
+    "eslint": "7.1.0"
+  },
+  "dependencies": {
+    "prettier": "^3.0.2"
+  }
+}
